@@ -1,4 +1,4 @@
-# Desafío IA: Transformando un Proceso tradicional
+# Desafío IA: Transformando un proceso tradicional
 
 ## 1. Introducción
 
